@@ -36,7 +36,7 @@ Two types of linear models (Linear Regression and Lasso Regression) were trained
 
 A. Models with car_age, mileage_per_year, is_luxury, age_odometer_interaction, (and original features):
 
-![results.jpeg] (Practical-App-2/results.jpeg)
+![Image](https://github.com/user-attachments/assets/5ac8bdb3-2a4f-484f-87a0-b14222c7839f)
 
 Lasso Coefficients (Key Price Drivers) for model without engineered features:
 For this model, the features with non-zero coefficients indicating their importance were predominantly model, year, and odometer. (Specifically: model (positive), year (positive), odometer (negative)).
